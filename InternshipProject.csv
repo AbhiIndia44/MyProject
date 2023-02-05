@@ -1,0 +1,200 @@
+Age of the prospective buyer ,Profession,Frequency of call,Frequency of website visit,Agency,Location Desired,Floor desired,Type Desired,Parking space,Public Convenience (Kms),Rooms,Carpet Area(sq. ft),Lift,Furnishing,Budget in Lakhs,Age of the property,Loan Tenure,Conversion
+23,Engineer ,1,1,SY,Delhi,1,Flats,0,0-1,2,700-1000,1,Y,40-60,New,6 yrs,0
+36,Teacher ,3,0,MB,Faridabad,2,Flats,1,1-2,2,500-1000,1,N,60-70,1-3,6yrs,1
+34,Professor ,4,2,MB,Banglore,0,Flats,1,1-3,1,750-1000,1,N,50-80,2-5,8yrs,0
+56,Engineer ,2,0,MB,Delhi,,Apartment,1,0-1,3,900-1500,1,N,60-80,New,10yrs,0
+38,Businessman ,3,2,NA,Pune,2,Flats,1,1-3,3,600-1200,1,Y,50-70,2-3,10yrs,0
+42,CA,0,2,NA,Delhi,3,Flats,0,0-1,1,1000-1200,1,N,80-100,2-4,15yrs,1
+29,Doctor,2,3,IG,Banglore,1,Condo,,2-3,3,1500-2500,1,N,80-150,New,20yrs,0
+30,Businessman ,1,1,SY,Vishakhapatnam,1,Apartment,2,1-3,2,800-1000,1,Y,80-90,New,10yrs,0
+28,Teacher ,1,1,SY,Mumbai,0,Apartment,0,2-3,1,800-1000,1, N,50-80,1-3,10yrs,1
+28,Engineer ,,3,MB,Jaipur,0,Flats,1,1-3,3,600-800,0,N,40-60,New,20yrs,1
+70,Retired,1,0,MB,Delhi,,Town House,1,0-1,4,1500-2000,0,N,90-120,New,15yrs,0
+42,Businessman ,3,1,NA,Faridabad,1,Town House,1,3-4,3,1000-1500,0,N,80-100,New,15yrs,0
+44,Engineer ,2,0,SY,Ghaziabad,2,Flats,2,2-3,2,750-1000,0,Y,50-60,2-4,15yrs,0
+34,Engineer ,1,2,MB,Delhi,2,Apartment,0,2-3,1,900-1200,1,Y,50-70,4-7,15yrs,0
+37,Lawyer,3,,MB,Mumbai,,Condo,1,1-3,1,1200-1500,1,N,80-90,New,15yrs,1
+27,Engineer ,1,4,NA,Vishakhapatnam,2,Apartment,1,2-3,2,800-1000,1,N,60-90,1-3,12yrs,1
+45,Engineer ,2,2,HC,Banglore,1,Flats,1,2-5,2,700-1000,1,N,50-70,New,12yrs,0
+51,Businessman ,1,1,MB,Banglore,4,Apartment,1,1-3,2,1000-1200,0,N,40-60,2-4,8yrs,1
+25,Engineer ,,3,MB,Banglore,2,Condo,2,0-1,3,1000-2000,1,N,80-90,1-6,20yrs,0
+28,Engineer ,4,2,MB,Ahmedabad ,1,Villa,1,2-3,4,1500-2500,0,N,100-200,0-3,15yrs,1
+49,Accountant,3,2,IG,Mumbai,1,Flats,0,2-3,2,800-1000,0,Y,60-80,New,15yrs,0
+23,Doctor,1,1,HC,Pune,0,Apartment,1,2-3,3,750-1200,1,N,80-90,3-4,10yrs,1
+28,Engineer ,2,3,MB,Ahmedabad ,2,Apartment,1,1-3,3,800-1200,1,Y,80-100,New,15yrs,1
+37,Engineer ,3,2,MB,Banglore,1,Flats,2,1-3,2,750-1000,1,Y,40-60,0-3,6yrs,0
+33,Engineer ,2,3,MB,Ludhiana,,Villa,1,1-2,4,1500-2000,0,N,90-150,3-5,15yrs,0
+39,Engineer ,3,4,SY,Delhi,2,Apartment,1,2-3,2,1200-1500,1,N,70-80,3-5,8yrs,1
+39,Engineer ,1,2,SY,Jaipur,1,Apartment,1,2-3,2,800-1200,1,N,80-100,2-5,8yrs,0
+41,Accountant,5,2,NA,Delhi,0,Apartment,0,1-2,3,1500-2500,1,N,80-150,New,5yrs,0
+28,Businessman ,2,3,NA,Ghaziabad,3,Apartment,,0-1,3,1000-1200,1,Y,55-90,New,15yrs,1
+36,Musician,3,2,SY,Indore,2,Flats,0,2-4,3,800-1000,0,N,60-80,New,15yrs,0
+44,Engineer ,2,0,MB,Mumbai,2,Flats,1,1-2,1,500-1000,,N,40-70,0-4,6yrs,0
+37,Engineer ,3,,IG,Patna,,Villa,1,2-3,5,2000-3000,0,N,80-150,4-5,6yrs,1
+31,Teacher ,3,1,MB,Delhi,1,Apartment,1,1-2,2,1200-1500,1,N,80-100,New,15yrs,1
+38,Businessman ,2,1,NA,Ahmedabad ,0,Apartment,2,2-4,1,700-1000,1,N,50-80,3-5,20yrs,0
+52,Engineer ,1,0,NA,Faridabad,0,Apartment,1,0-1,3,800-1000,,N,70-100,New,10yrs,0
+33,Doctor,1,1,IG,Delhi,2,Flats,1,3-4,2,900-1000,1,N,80-100,3-4,10yrs,1
+30,Businessman ,1,1,SY,Delhi,1,Town House,1,2-4,1,900-1500,1,Y,60-80,0-3,15yrs,0
+26,Engineer ,3,2,MB,Ghaziabad,2,Apartment,2,1-3,2,1000-1200,1,Y,90-120,1-4,5yrs,0
+54,Bank Manager,2,0,SY,Jaipur,1,Town House,1,1-3,3,1000-1200,1,N,80-90,2-4,10yrs,0
+33,Engineer ,3,0,IG,Banglore,3,Flats,1,0-2,3,900-1500,1,N,50-70,3-6,12yrs,0
+29,Engineer ,2,1,TP,Jaipur,1,Town House,2,1-3,2,1000-1200,0,Y,70-90,2-4,15yrs,1
+40,Engineer ,1,1,NA,Banglore,2,Apartment,1,2-4,1,1000-1200,1,N,50-80,2-5,12yrs,1
+41,CA,2,1,IG,Delhi,0,Apartment,1,2-3,3,1000-1200,1,N,50-70,1-5,15yrs,1
+38,Engineer ,3,1,HC,Mumbai,5,Apartment,0,1-3,4,700-1000,1,Y,70-100,1-4,12yrs,0
+32,Engineer ,1,2,NA,Jaipur,2,Apartment,0,1-2,3,700-1000,1,N,50-70,1-4,15yrs,0
+41,Bank Manager,1,1,MB,Banglore,1,Flats,1,2-4,2,700-1000,0,Y,40-60,1-5,8yrs,1
+45,Businessman ,3,2,SY,Faridabad,2,Flats,2,0-3,2,1000-1200,0,N,80-100,1-2,8yrs,0
+60,Retired,,0,IG,Delhi,3,Flats,1,2-3,2,900-1500,1,N,70-90,0-3,15yrs,0
+28,Engineer ,2,,IG,Delhi,3,Flats,0,0-2,1,1000-1200,0,N,90-100,0-3,20yrs,0
+34,Lawyer,3,1,SY,Delhi,0,Condo,1,1-3,2,500-1000,1,N,50-70,1-6,15yrs,0
+29,Engineer ,1,2,MB,Faridabad,2,Town House,1,2-3,4,1000-1200,1,N,70-90,2-4,15yrs,0
+29,CA,1,1,NA,Ghaziabad,0,Villa,2,0-1,4,1000-1200,1,Y,40-70,2-7,8yrs,0
+57,Doctor,3,2,MB,Banglore,2,Villa,3,0-2,3,700-1000,1,Y,70-80,4-6,15yrs,0
+44,Engineer ,2,1,IG,Faridabad,2,Flats,1,3-4,2,900-1500,1,N,90-100,3-6,5yrs,0
+36,Teacher ,,0,SY,Mumbai,0,Apartment,1,1-3,3,1000-1200,1,N,50-80,3-8,5yrs,0
+48,Engineer ,2,0,SY,Banglore,1,Apartment,2,0-2,1,1000-1200,0,N,70-90,2-4,10yrs,1
+25,Engineer ,3,1,NA,Delhi,3,Villa,1,0-3,3,700-1000,1,Y,60-100,2-7,15yrs,1
+39,Accountant,1,2,HC,Delhi,1,Apartment,0,0-1,2,700-1000,0,N,80-90,3-6,10yrs,1
+27,Businessman ,2,1,MB,Ghaziabad,2,Apartment,,1-3,3,1000-1200,0,N,65-85,4-9,10yrs,1
+71,Retired,3,0,MB,Banglore,1,Condo,1,1-2,2,1000-1200,0,N,90-1-00,3-6,10yrs,0
+36,Engineer ,2,0,MB,Faridabad,0,Villa,1,2-3,3,900-1500,1,Y,100-200,3-8,12yrs,0
+35,Engineer ,1,1,NA,Lucknow,,Villa,1,2-3,4,700-1000,1,N,40-70,1-5,8yrs,0
+42,Doctor ,1,1,SY,Delhi,2,Apartment,2,0-3,2,1000-1200,1,Y,50-60,2-4,8yrs,1
+51,Retired,2,2,HC,Banglore,3,Apartment,1,0-2,2,700-1000,1,N,40-60,2-8,15yrs,0
+34,Engineer ,1,1,SY,Delhi,2,Flats,2,0-2,1,700-1000,1,N,80-90,1-4,15yrs,1
+33,Accountant,1,0,HC,Ghaziabad,2,Apartment,1,0-1,3,1000-1200,1,Y,70-90,1-10,15yrs,1
+36,CA,1,0,NA,Mumbai,,Flats,2,0-1,2,900-1500,1,Y,90-100,2-4,12yrs,1
+29,Engineer ,1,1,SY,Ghaziabad,2,Apartment,1,0-4,2,700-1000,1,N,50-70,2-5,20yrs,0
+46,Businessman ,2,2,IG,Banglore,3,Apartment,1,1-2,3,1000-1200,1,N,70-90,0-5,15yrs,0
+27,CA,1,2,IG,Banglore,4,Flats,0,0-2,2,700-1000,1,N,50-60,0-4,15yrs,1
+48,Engineer ,2,1,HC,Ghaziabad,0,Villa,,0-2,3,1500-2500,1,N,60-80,2-4,8yrs,0
+39,Businessman ,3,1,MB,Jaipur,2,Apartment,1,0-1,2,900-1500,,Y,60-80,3-5,15yrs,0
+33,Doctor,1,0,MB,Delhi,1,Villa,1,0-2,1,1000-1200,1,N,50-80,3-10,6yrs,0
+25,Musician,3,,MB,Lucknow,2,Flats,2,1-2,3,700-1000,1,N,70-90,2-3,5yrs,0
+44,Businessman ,2,2,NA,Delhi,3,Villa,1,1-2,1,1000-1200,1,Y,40-50,4-8,15yrs,1
+42,Teacher ,2,1,HC,Jaipur,1,Condo,2,1-2,2,1500-2500,1,N,90-100,2-4,5yrs,0
+57,Bank Manager,3,1,MB,Banglore,0,Condo,3,0-3,2,700-1000,1,N,40-55,2-5,5yrs,0
+35,Teacher ,1,2,MB,Mumbai,,Villa,1,0-2,3,1000-1200,0,N,50-80,1-8,5yrs,0
+34,Businessman ,2,1,MB,Indore,2,Flats,2,2-3,3,900-1500,1,Y,70-90,2-4,15yrs,0
+28,Lawyer,,0,NA,Ghaziabad,1,Apartment,1,0-1,3,700-1000,0,N,50-60,3-5,15yrs,0
+45,Clerk,1,4,HC,Delhi,2,Town House,0,0-2,4,900-1500,0,Y,70-80,4-5,10yrs,1
+36,Engineer ,3,2,NA,Delhi,1,FLats,2,0-1,2,1000-1200,0,N,60-70,3-5,15yrs,0
+35,Doctor,2,1,HC,Banglore,3,Condo,1,0-3,2,700-1000,1,N,40-60,3-5,10yrs,1
+40,Musician,1,3,HC,Jaipur,2,Flats,1,1-3,1,1000-1200,1,N,70-90,2-8,10yrs,1
+42,Engineer ,1,2,NA,Banglore,1,Villa,1,2-3,4,1500-2500,1,N,50-60,3-5,10yrs,1
+55,Mariner,2,1,MB,Indore,0,Apartment,1,0-2,2,1000-1200,1,Y,60-70,3-6,8yrs,0
+35,Accountant,4,0,MB,Delhi,,Apartment,1,2-4,2,700-1000,1,N,40-80,3-7,15yrs,0
+70,Businessman ,1,,NA,Pune,2,Condo,1,0-2,1,1500-2500,1,Y,60-100,4-5,10yrs,1
+29,Businessman ,2,2,TP,Delhi,3,Apartment,1,1-2,2,1000-1200,1,N,70-120,5-8,15yrs,1
+47,Lawyer,3,1,MB,Ghaziabad,2,Flats,0,0-1,3,700-1000,1,N,50-70,4-6,8yrs,0
+30,Doctor,2,1,NA,Delhi,1,Flats,1,2-3,2,900-1500,1,Y,60-80,4-10,8yrs,0
+40,Teacher ,1,2,TP,Jaipur,1,Flats,2,1-2,1,700-1000,1,N,50-80,1-9,8yrs,0
+44,Businessman ,1,1,IG,Banglore,3,Condo,1,1-3,1,1000-1200,1,Y,70-90,0-8,10yrs,0
+46,CA,1,2,MB,Mumbai,,Apartment,1,1-2,3,900-1500,1,Y,90-100,0-10,15yrs,0
+44,Engineer ,2,1,CF,Jaipur,2,Apartment,1,0-2,2,1000-1200,0,N,50-70,0-3,15yrs,0
+34,Engineer ,1,0,MB,Delhi,3,Villa,1,1-2,4,700-1000,,N,60-90,2-5,10yrs,1
+38,Businessman ,2,2,MB,Delhi,2,Flats,1,2-3,2,1000-1200,1,N,70-80,3-8,10yrs,0
+27,Mariner,1,1,MB,Delhi,1,Villa,0,2-3,3,900-1500,1,N,60-80,4-8,10yrs,1
+30,Businessman ,3,3,NA,Delhi,0,Apartment,2,0-2,2,1000-1200,1,N,50-70,5-7,10yrs,1
+31,Mariner ,1,2,IG,Banglore,2,Flats,1,1-2,2,1000-2000,1,N,50-60,2-4,5yrs,1
+45,Accountant,3,4,NA,Pune,1,Flats,1,2-4,3,1000-1200,1,N,50-80,1-3,15yrs,0
+27,Teacher ,2,2,MB,Banglore,2,Town House,1,1-3,2,900-1500,1,N,50-80,2-5,15yrs,0
+28,Lawyer,3,2,MB,Pune,,Flats,2,0-3,4,750-1200,1,N,75-95,3-4,6yrs,0
+48,Businessman ,1,1,MB,Jaipur,0,Flats,1,0-3,1,750-1200,1,N,90-100,3-5,10yrs,1
+36,Doctor,1,2,MB,Delhi,1,Flats,1,2-4,2,1000-2000,1,N,50-70,New,15yrs,1
+33,Mariner,3,1,NA,Delhi,2,Town House,2,3-5,2,1000-2000,1,N,80-100,0-4,10yrs,1
+51,Businessman ,0,1,TP,Banglore,3,Flats,1,3-5,3,1000-1200,0,N,80-150,2-6,10yrs,1
+39,Engineer ,2,1,IG,Jaipur,1,Apartment,1,2-4,4,900-1500,0,N,60-70,4-8,5yrs,0
+37,Musician,1,1,IG,Delhi,1,Apartment,,1-2,3,1500-2500,0,N,120-200,2-4,15yrs,0
+38,Lawyer,1,1,TP,Banglore,1,Flats,2,2-5,2,750-1200,0,N,60-80,1-5,10yrs,1
+27,Engineer ,2,1,MB,Pune,1,Flats,1,3-5,2,1000-2000,0,N,80-100,2-4,5yrs,0
+29,Businessman ,0,1,MB,Jaipur,2,Apartment,1,1-2,2,750-1200,1,N,60-80,4-5,5yrs,1
+39,Businessman ,0,0,MB,Delhi,0,Flats,1,1-2,1,900-1500,1,Y,50-70,8-10,15yrs,0
+36,Mariner ,1,3,CF,Mumbai,2,Apartment,1,1-2,3,800-1000,1,N,40-60,2-4,6yrs,0
+28,Businessman ,0,2,MB,Jaipur,1,Apartment,1,1-2,3,1000-1200,1,Y,60-80,4-5,10yrs,0
+30,Engineer ,0,3,MB,Delhi,2,Town House,1,1-2,4,750-1200,1,Y,70-90,3-5,8yrs,1
+40,Doctor,2,1,TP,Pune,1,Flats,0,0-3,2,900-1500,1,Y,80-100,1-6,15yrs,1
+44,Clerk,1,1,NA,Lucknow,2,Flats,0,0-4,2,1000-2000,1,N,60-100,2-4,10yrs,1
+36,Musician,1,2,CF,Delhi,1,Apartment,0,2-3,2,1000-2000,1,N,70-90,2-5,20yrs,0
+38,Engineer ,1,1,NA,Banglore,2,Town House,1,2-3,3,800-1000,0,N,60-100,3-8,15yrs,0
+51,Businessman ,3,2,IG,Banglore,1,Apartment,1,1-3,3,900-1500,1,Y,50-80,4-5,12yrs,1
+28,CA,1,1,CF,Delhi,1,Apartment,1,1-3,2,1000-1200,1,N,80-100,3-5,12yrs,0
+36,Businessman ,2,2,MB,Delhi,1,Flats,1,1-4,2,1200-1500,1,N,80-100,2-6,10yrs,0
+38,Engineer ,2,4,NA,Pune,2,Flats,1,0-2,2,900-1500,1,N,80-120,4-5,10yrs,0
+46,Engineer ,1,3,CF,Ghaziabad,3,Condo,1,0-3,1,750-1200,1,N,80-100,2-5,5yrs,0
+40,Engineer ,1,2,NA,Banglore,2,Condo,1,0-1,1,1000-2000,1,N,50-80,3-4,5yrs,1
+49,Bank Manager,,1,MB,Delhi,1,Apartment,2,2-3,1,1000-2000,1,N,60--80,2-5,5yrs,0
+33,Accountant,1,1,MB,Pune,2,Flats,2,2-3,2,1000-1200,1,N,60-90,4-5,15yrs,1
+46,Businessman ,1,1,TP,Delhi,1,Apartment,1,1-3,2,1000-1200,1,Y,70-100,5-10,6yrs,1
+50,Businessman ,2,,NA,Delhi,2,Apartment,2,1-4,2,900-1500,1,N,90-120,1-3,12yrs,1
+29,Doctor,1,0,TP,Delhi,3,Flats,1,2-4,3,800-1000,1,Y,50-70,2-4,12yrs,0
+26,Businessman ,1,2,NA,Delhi,2,Apartment,1,2-3,3,900-1500,1,Y,50-80,2-6,5yrs,0
+30,Businessman ,1,1,TP,Ghaziabad,2,Apartment,1,2-5,4,750-1200,1,Y,40-60,1-5,15yrs,1
+24,Engineer ,3,2,CF,Delhi,2,Flats,,1-3,2,1000-1200,1,N,60-80,2-4,10yrs,1
+28,Businessman ,2,2,MB,Pune,1,Flats,1,0-3,2,1000-1800,1,N,80-90,3-5,10yrs,1
+29,Clerk,1,2,CF,Banglore,1,Apartment,1,0-2,1,800-1000,1,N,50-70,3-7,10yrs,1
+25,Businessman ,0,1,TP,Delhi,1,Apartment,1,1-3,2,1000-2000,1,N,70-90,2-5,15yrs,1
+30,Businessman ,0,2,MB,Banglore,2,Flats,2,2-4,3,900-1500,1,N,60-90,4-5,10yrs,0
+33,Doctor,2,1,MB,Delhi,2,Flats,1,1-4,4,750-1200,0,N,40-60,3-9,6yrs,0
+30,Professor ,1,1,TP,Jaipur,1,Flats,1,1-2,2,1000-1200,0,N,60-80,2-4,6yrs,0
+27,Businessman ,0,3,NA,Vishakhapatnam,2,Town House,2,0-3,2,2000-3000,0,N,80-90,2-7,15yrs,0
+39,Doctor,2,1,TP,Delhi,3,Apartment,1,1-5,2,1000-1200,1,N,60-90,3-5,8yrs,1
+40,Businessman ,2,1,NA,Pune,2,Apartment,0,1-2,3,900-1500,1,N,70-80,3-4,8yrs,0
+33,Accountant,1,2,MB,Ghaziabad,1,Flats,2,1-4,2,1000-1200,1,N,90-120,3-8,8yrs,1
+37,Engineer ,2,1,NA,Delhi,0,Condo,1,2-4,3,800-1000,1,N,90-120,2-4,10yrs,0
+40,Lawyer,3,3,MB,Banglore,0,Flats,1,1-4,2,1000-2000,1,N,60-80,3-5,15yrs,1
+26,Engineer ,1,1,MB,Pune,2,Apartment,1,2-5,2,1000-1200,1,N,80-90,New,12yrs,0
+36,Teacher ,,2,MB,Delhi,1,Flats,2,2-4,2,900-1500,0,N,40-60,2-5,12yrs,1
+26,Teacher ,2,2,MB,Banglore,2,Flats,2,2-3,2,750-1200,1,Y,80-90,1-4,15yrs,0
+48,Engineer ,1,1,MB,Delhi,2,Flats,1,1-5,1,800-1000,0,N,60-90,1-2,8yrs,0
+33,Lawyer,1,0,NA,Banglore,2,Apartment,1,1-2,2,900-1500,0,Y,80-100,2-3,15yrs,0
+49,Lawyer,2,0,TP,Mumbai,1,Town House,1,1-3,5,1000-2000,0,Y,90-100,1-6,6yrs,1
+44,CA,1,,NA,Delhi,3,Apartment,1,2-3,2,900-1500,1,Y,70-100,2-4,6yrs,1
+29,Engineer ,2,2,NA,Jaipur,2,Apartment,1,1-2,2,900-1500,1,N,90-120,0-4,12yrs,1
+30,Engineer ,3,2,MB,Jaipur,1,Town House,2,2-3,2,1500-3000,0,N,90-100,1-4,10yrs,0
+36,Engineer ,1,2,MB,Faridabad,1,Villa,1,0-3,2,900-1500,1,N,80-100,3-5,5yrs,0
+31,CA,2,1,CF,Delhi,2,Condo,1,3-4,1,900-1500,1,Y,80-120,4-10,12yrs,1
+40,Bank Manager,2,2,TP,Delhi,1,Town House,1,1-2,2,1000-1200,0,N,70-100,2-4,15yrs,0
+27,Engineer ,0,1,TP,Delhi,2,Flats,0,1-2,2,1000-2000,0,N,80-100,New,15yrs,1
+33,Engineer ,1,1,MB,Lucknow,,Town House,0,2-4,3,800-1000,1,N,80-90,2-5,6yrs,1
+30,Engineer ,0,3,CF,Mumbai,2,Villa,1,2-3,3,750-1200,0,N,40-60,1-5,12yrs,1
+38,Doctor,1,1,NA,Vishakhapatnam,1,Apartment,1,1-2,2,1000-1200,1,N,70-100,1-6,12yrs,0
+33,Engineer ,2,2,MB,Delhi,1,Apartment,1,1-3,1,750-1000,1,N,90-120,2-5,15yrs,0
+50,CA,,2,CF,Delhi,1,Apartment,2,1-2,1,1000-2000,1,N,60-80,New,10yrs,0
+35,Lawyer,2,1,MB,Ghaziabad,,Apartment,1,2-4,2,750-1000,1,N,70-90,3-5,15yrs,0
+33,CA,1,1,CF,Banglore,0,Apartment,1,2-3,2,1000-1200,1,N,80-100,3-5,10yrs,0
+40,Bank Manager,1,2,CF,Delhi,0,Apartment,2,0-1,3,900-1500,1,N,90-120,2-7,6yrs,1
+42,Teacher ,0,0,MB,Faridabad,2,Apartment,1,2-3,2,800-1000,1,N,80-100,3-6,6yrs,1
+29,Engineer ,3,3,MB,Delhi,1,Town House,1,2-3,4,900-1500,0,N,100-120,2-5,15yrs,1
+33,Engineer ,1,1,TP,Ghaziabad,1,Villa,1,1-3,4,750-1000,1,N,40-60,3-5,10yrs,0
+48,Businessman ,2,2,MB,Delhi,1,Apartment,1,0-3,2,800-1200,1,N,80-120,4-5,15yrs,1
+50,Bank Manager,1,1,MB,Pune,2,Apartment,1,0-2,2,1000-2000,1,N,90-100,3-5,20yrs,1
+24,Teacher ,0,2,NA,Banglore,1,Apartment,1,1-3,2,900-1500,1,N,90-150,4-8,6yrs,1
+30,Engineer ,2,3,NA,Banglore,0,Town House,1,1-4,4,750-1200,0,Y,80-120,3-4,6yrs,1
+56,CA,2,1,NA,Mumbai,2,Apartment,0,1-3,1,1000-1500,1,Y,80-150,4-6,12yrs,1
+34,Businessman ,1,2,CF,Mumbai,1,Flats,2,1-2,2,900-1500,1,Y,80-150,3-4,12yrs,0
+69,Retired,1,1,MB,Delhi,1,Town House,1,1-4,3,750-1000,0,N,60-90,2-5,10yrs,0
+33,Engineer ,0,0,MB,Delhi,1,Apartment,2,1-5,2,800-1000,1,N,90-100,3-5,15yrs,1
+25,Engineer ,1,3,NA,Delhi,2,Apartment,2,2-5,2,800-1000,1,Y,80-90,4-6,15yrs,1
+33,Lawyer,2,3,CF,Banglore,1,Apartment,1,2-3,1,900-1500,1,N,80-150,2-5,15yrs,1
+29,Doctor,2,2,MB,Mumbai,1,Apartment,1,2-5,2,1000-2000,1,Y,70-120,2-6,6yrs,1
+33,CA,1,1,NA,Faridabad,0,Condo,1,1-3,2,750-1200,1,Y,80-120,3-5,6yrs,0
+45,Engineer ,3,2,CF,Delhi,2,Villa,1,1-4,4,750-1000,0,N,80-100,4-8,12yrs,0
+48,Businessman ,1,2,MB,Delhi,1,Town House,1,1-3,2,900-1500,0,Y,70-90,2-6,10yrs,0
+43,Teacher ,2,0,MB,Delhi,1,Apartment,,2-4,2,1200-1500,1,N,80-90,3-5,15yrs,1
+31,Engineer ,3,2,IG,Delhi,1,Apartment,1,2-4,2,1000-2000,1,N,100-150,4-6,12yrs,0
+43,Lawyer,1,,TP,Ghaziabad,0,Apartment,1,1-2,2,800-1000,1,N,80-120,4-6,12yrs,0
+33,Engineer ,2,3,TP,Mumbai,2,Apartment,1,2-4,3,1000-2000,1,N,100-150,2-5,15yrs,0
+44,CA,1,3,IG,Delhi,1,Apartment,1,2-3,2,1000-2000,1,N,120-150,1-4,15yrs,1
+28,Businessman ,1,3,MB,Ghaziabad,1,Flats,1,1-2,2,750-1000,0,N,60-80,1-3,6yrs,1
+30,Businessman ,1,2,TP,Faridabad,2,Condo,1,1-3,2,900-1500,1,N,55-85,2-4,15yrs,1
+27,Clerk,2,2,CF,Banglore,1,Flats,1,1-2,3,750-1200,1,Y,70-80,2-5,6yrs,1
+50,Bank Manager,3,2,MB,Lucknow,2,Flats,1,1-3,1,1000-2000,1,Y,60-80,1-8,12yrs,0
+44,Engineer ,1,1,MB,Delhi,1,Apartment,1,2-4,2,750-1000,1,N,90-100,New,12yrs,0
+29,Engineer ,3,2,NA,Mumbai,2,Condo,1,1-2,1,750-1000,1,N,70-90,0-4,6yrs,1
+26,Doctor,1,1,NA,Ghaziabad,3,Apartment,1,0-2,2,800-1000,1,N,90-120,3-5,10yrs,0
+28,Lawyer,2,1,MB,Ghaziabad,0,Flats,1,1-3,3,900-1500,1,N,60-80,4-8,15yrs,0
+38,Teacher ,0,1,MB,Banglore,1,Condo,1,0-2,4,750-1200,1,N,70-80,2-4,15yrs,0
+33,CA,3,1,MB,Delhi,1,Apartment,2,0-1,3,1000-2000,1,Y,80-100,1-5,12yrs,1
